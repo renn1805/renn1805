@@ -33,8 +33,8 @@
 
 ## 📫 Contato
 
-- ✉️ Email: renan.almeida@email.com *(substitua pelo real se quiser)*
-- 💼 [LinkedIn]((https://www.linkedin.com/in/renan-almeida-de-araujo-b964a1377/)) *(adicione se tiver)*
+- ✉️ Email: renan.almeida.arau@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/renan-almeida-de-araujo-b964a1377/)
 
 ---
 
