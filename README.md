@@ -41,5 +41,5 @@
 
 ## 📬 Contato
 
-- 📧 Email profissional: **renan.almeida.arau@outlook.com**  
+- 📧 Email profissional: **renan.almeida.arau@gmail.com**  
 - 🔗 LinkedIn: **https://linkedin.com/in/renan-almeida-de-araujo-b964a1377**  
