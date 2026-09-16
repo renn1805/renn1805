@@ -2,7 +2,6 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🏫 ETEC **Albert Einstein**  
-- 💼 Estagiário na **Serraf Autopeças**  
 - 💙 Apaixonado por **desenvolvimento de software** e tecnologia  
 
 ---
